@@ -1,6 +1,6 @@
 # Stock Hub
 
-## 📦 Inventory Management REST API
+## 📦  Inventory Management
 Stock Hub is a robust inventory management system that simplifies the process of stocking new products, updating product details, and displaying current inventory. Built with a scalable and clean architecture, this solution ensures efficient product management for businesses.
 
 ## ✨ Features
